@@ -1,1 +1,1 @@
-onsole.log("Hello !! from git to jenkins");
+console.log("Hello !! from git to jenkins");
